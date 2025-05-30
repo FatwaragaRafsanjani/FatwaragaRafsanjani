@@ -1,4 +1,4 @@
-#Fatwaraga Rafsanjani
+Fatwaraga Rafsanjani
 
 Informatics Student At Sultan Ageng Tirtayasa University | Aspiring Software Developer
 
